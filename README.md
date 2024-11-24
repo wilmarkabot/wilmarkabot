@@ -36,6 +36,7 @@
 
 - [PC repair: No Display and On and Off Problem](https://www.youtube.com/watch?v=dwpPUSgOPxg&t=20s)
 - [Simple Coffee Shop Menu Using HTML and CSS](https://www.youtube.com/watch?v=pjyEVms_MpQ)
+- [CSS Color Hacks: How to Use Name, Hex, and RGB for Perfect Colors Every Time](https://youtu.be/Ed36et3uplI)
 - [10 Essential HTML and CSS vocabulary explained)](https://www.youtube.com/watch?v=esRb8glsvj0)
 
 <h2> 🤳 Connect with me:</h2>
